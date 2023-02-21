@@ -1,2 +1,0 @@
-# blstteststore
-Test Shopify Site
